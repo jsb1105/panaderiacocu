@@ -1,0 +1,21 @@
+
+@media all and (max-width: 767px){
+    .img-banner-responsive{
+        height: 250px;
+        object-fit: cover;
+    }
+} 
+.productosDestacados{ 
+    border-radius: 15px;
+ 
+}
+.productosDestacados:hover{
+    filter:sepia(50%)
+}
+
+.productosDestacados{ 
+    border-radius: 10px;
+    filter:grayscale(20%)
+}
+.productosDestacados:hover{
+    filter:sepia(80%)}
